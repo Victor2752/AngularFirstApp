@@ -1,2 +1,2 @@
-# Angular_First_App
+# AngularFirstApp
  app in Angular for practice this framework
